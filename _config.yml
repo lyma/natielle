@@ -4,8 +4,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-title: Dean Attali
-author: Dean Attali
+title: Natielle Caetano
+author: João Lyma
 
 
 navbar-links:
@@ -15,13 +15,13 @@ navbar-links:
   About Me / Contact: "aboutme"
   ❤ Support: "https://github.com/sponsors/daattali"
 
-avatar: "/assets/img/deanimg.jpeg"
+avatar: "/assets/img/natty.jpg"
 
 social-network-links:
   email: "daattali@gmail.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: lyma
+  twitter: lymas
   linkedin: "pub/dean-attali/8/946/143"
   stackoverflow: "users/3943160/daattali"
   calendly: "attalitech/meeting"
