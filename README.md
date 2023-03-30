@@ -1,8 +1,6 @@
-# Dean Attali's website
+# Natielle Caetano website
 
-> *Copyright 2020 [Dean Attali](https://deanattali.com). Licensed under the MIT license.*
-
-Dean Attali's website [https://deanattali.com](https://deanattali.com)
+> *Copyright 2023 [João Lyma](https://www.lymas.com.br). Licensed under the MIT license.*
 
 The theme for this website has been open-sourced as [Beautiful Jekyll](https://beautifuljekyll.com/).
 
