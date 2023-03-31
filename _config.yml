@@ -9,27 +9,27 @@ author: João Lyma
 
 
 navbar-links:
-  Blog: "/"
-  Hire me: "https://attalitech.com/"
+  Home: "/"
+  Hire me: "https://www.linkedin.com/in/natielle-caetano-a96770125/"
   Projects: "projects"
   About Me / Contact: "aboutme"
-  ❤ Support: "https://github.com/sponsors/daattali"
+  ❤ Support: "https://github.com/sponsors/lyma"
 
 avatar: "/assets/img/natty.jpg"
 
 social-network-links:
-  email: "daattali@gmail.com"
-  facebook: deanattali
+  email: "natielle@natielle.com.br"
+  facebook: natielle.silva.94
   github: lyma
   twitter: lymas
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  linkedin: "natielle-caetano-a96770125"
+  #stackoverflow: "users/3943160/daattali"
+  #calendly: "attalitech/meeting"
+  #youtube: "c/daattali?sub_confirmation=1"
+  #patreon: DeanAttali
 
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
 
@@ -58,7 +58,7 @@ google_analytics: "UA-59820529-1"
 fb_app_id: "536330676521989"
 
 url-pretty: "❤ Support"
-url-canonical: https://github.com/sponsors/daattali
+url-canonical: https://github.com/sponsors/lyma
 
 defaults:
   -
@@ -83,7 +83,7 @@ defaults:
       comments: true
       social-share: true
       show-share: true
-      show-subscribe: true
+      show-subscribe: false
       support_promo_box: true
       after-content: [share-section.html, scroll-box.html]
   -
